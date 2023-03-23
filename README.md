@@ -1,4 +1,6 @@
 # Weissman-Score
+In This Repositary I am Writing My Self Satisfaction Project #1
+
 This Is Compression Score Mesuring Code Inspired By Silicon Valley A Famous TV series
 The Weissman score is a fictional metric from Silicon Valley that represents the efficiency of a compression algorithm. While it is not a real-life metric, we can create a program to measure the efficiency of a compression algorithm and use it as a proxy for the Weissman score.
 
